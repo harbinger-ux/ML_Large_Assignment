@@ -13,7 +13,6 @@
    ```
    ML_Large_Assignment
    ├── data
-   ├── models
    ├── outputs
    ├── run_data_prep.py
    └── src
