@@ -6,7 +6,7 @@
 
    [https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
-2. Extract the downloaded `.zip` file and place it inside the `ML_Large_Assignment` directory.
+2. Extract the downloaded `.zip` file and rename to `data` then place it inside the `ML_Large_Assignment` directory.
 
    The folder structure should look like this:
 
@@ -44,3 +44,6 @@
 ## Deep Learning Model
 
 5. The `deep_learning.py` script is executed without any additional flags.
+   ```bash
+   python deep_learning.py
+   ```
